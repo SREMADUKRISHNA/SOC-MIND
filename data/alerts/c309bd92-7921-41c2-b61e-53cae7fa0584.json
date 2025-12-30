@@ -1,0 +1,1 @@
+{"id": "c309bd92-7921-41c2-b61e-53cae7fa0584", "timestamp": 1767100333.2870328, "source": "cloud_guard", "severity": "LOW", "type": "System Crash", "raw_data": {"ip": "192.168.1.10", "user": "admin", "process": "powershell.exe"}}

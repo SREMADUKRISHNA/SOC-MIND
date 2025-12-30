@@ -1,0 +1,1 @@
+{"id": "0de18091-037f-491e-9bd0-9ac72f30aba4", "timestamp": 1767100379.6372547, "source": "cloud_guard", "severity": "LOW", "type": "Policy Violation", "raw_data": {"ip": "192.168.1.10", "user": "admin", "process": "powershell.exe"}}

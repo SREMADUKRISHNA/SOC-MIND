@@ -1,0 +1,1 @@
+{"id": "cadcfb06-7988-461f-86d4-6caeb0bf1ebb", "timestamp": 1767100333.2870216, "source": "printer_logs", "severity": "HIGH", "type": "Policy Violation", "raw_data": {"ip": "192.168.1.10", "user": "admin", "process": "powershell.exe"}}

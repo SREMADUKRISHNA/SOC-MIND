@@ -1,0 +1,1 @@
+{"id": "05775fc8-9c95-4d1c-b795-cb9ea1d3216f", "timestamp": 1767100083.9727924, "source": "cloud_guard", "severity": "MEDIUM", "type": "Data Exfiltration", "raw_data": {"ip": "192.168.1.10", "user": "admin", "process": "powershell.exe"}}

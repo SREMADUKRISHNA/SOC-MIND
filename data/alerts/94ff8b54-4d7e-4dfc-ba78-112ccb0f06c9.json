@@ -1,0 +1,1 @@
+{"id": "94ff8b54-4d7e-4dfc-ba78-112ccb0f06c9", "timestamp": 1767100333.2869873, "source": "edr_agent", "severity": "CRITICAL", "type": "Policy Violation", "raw_data": {"ip": "192.168.1.10", "user": "admin", "process": "powershell.exe"}}

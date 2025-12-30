@@ -1,0 +1,19 @@
+app_name: "SOC-MIND"
+version: "1.0.0"
+
+paths:
+  data_dir: "data"
+  alerts_dir: "data/alerts"
+  decisions_dir: "data/decisions"
+  replays_dir: "data/replays"
+  logs_dir: "logs/system"
+
+engine:
+  name: "VSMK-DecisionCore"
+  thresholds:
+    investigate: 0.5
+    escalate: 0.8
+
+server:
+  host: "localhost"
+  port: 8000

@@ -1,0 +1,1 @@
+{"id": "f253db98-3ee8-4fe6-a383-2308e48ceb83", "timestamp": 1767100083.972852, "source": "email_gateway", "severity": "HIGH", "type": "Data Exfiltration", "raw_data": {"ip": "192.168.1.10", "user": "admin", "process": "powershell.exe"}}

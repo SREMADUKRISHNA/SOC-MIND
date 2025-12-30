@@ -1,0 +1,1 @@
+{"id": "777d2ab9-dc42-46bc-beb7-29e0b4e28d0f", "timestamp": 1767100083.972862, "source": "email_gateway", "severity": "HIGH", "type": "Brute Force Attempt", "raw_data": {"ip": "192.168.1.10", "user": "admin", "process": "powershell.exe"}}

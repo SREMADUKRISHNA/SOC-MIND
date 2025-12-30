@@ -1,0 +1,1 @@
+{"id": "f0b7f022-6e8e-4811-9ac2-a5886b2bc96c", "timestamp": 1767100379.6372724, "source": "email_gateway", "severity": "MEDIUM", "type": "Policy Violation", "raw_data": {"ip": "192.168.1.10", "user": "admin", "process": "powershell.exe"}}
